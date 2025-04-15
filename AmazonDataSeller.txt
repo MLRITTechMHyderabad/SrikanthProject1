@@ -1,0 +1,11 @@
+pd.to_numeric(cname,errors="coerce")
+coerce :if a value cant be converted to the req dtype this keyword make the value as the nan 
+fillna is used to fill the null values by certain values
+isnull() check whether the null values are present in the coloumn or not
+pd.to_numeric converts the dtypeto int
+.dtype
+.iterrows():it is a pandas method which is used to iterate over the rows
+price analysis: it is technique to examine and  analyze the relationship between price,distributiom and with other variables and potential anamolies.
+linspace() print certain values in the given range,with skipper
+linspace(start,end,skip)
+it is a process of analyzing price drops or hikes over a time 
