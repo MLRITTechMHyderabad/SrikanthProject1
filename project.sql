@@ -13,3 +13,4 @@ ALTER TABLE amazonData MODIFY product_title VARCHAR(255);
 drop table amazondata;
 describe table amazondata;
 show tables;
+select * from amazon;
